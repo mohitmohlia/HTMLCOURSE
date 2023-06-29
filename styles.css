@@ -1,0 +1,10 @@
+h1 {
+  color: rgb(6, 206, 126);
+}
+h1:hover {
+  color: rgb(184, 0, 83);
+}
+body {
+  background-color: black;
+  text-align: center;
+}
